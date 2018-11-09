@@ -1,8 +1,8 @@
-# linux-server-project
+# FlaskApp-Apache2-WSGI-Item-catalog-app
 
 # Project Title
 
-Item-Catalog-App 
+FlaskApp-Apache2-WSGI-Item-catalog-app
 
 ## Getting Started
 
