@@ -11,7 +11,7 @@ At the moment the authentification via 3rd-Party-Provider Facebook and Google ar
 
 The project files are available on github. 
 
-git clone https://github.com/ubunturuby/itemcatalogapp.git
+git clone https://github.com/TimOhlendorf/itemcatalogapp.git
 
 
 ## Server
