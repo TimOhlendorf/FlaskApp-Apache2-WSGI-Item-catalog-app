@@ -1,5 +1,3 @@
-# FlaskApp-Apache2-WSGI-Item-catalog-app
-
 # Project Title
 
 FlaskApp-Apache2-WSGI-Item-catalog-app
